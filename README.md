@@ -51,3 +51,7 @@ npm run dev
 
 ![image](https://github.com/Yashdeep03/Trust-Block/assets/124045454/31a7984c-af91-4280-858c-d60320220873)
 
+![image](https://github.com/Yashdeep03/Trust-Block/assets/124045454/2bc38aac-ac26-4cd8-ad1d-bb57b4167e8f)
+
+![image](https://github.com/Yashdeep03/Trust-Block/assets/124045454/545befb2-822a-43e9-bcf1-55c6f4ca8bc8)
+
