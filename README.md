@@ -48,3 +48,6 @@ npm run dev
 ``` 
 7. Login to metamask ,and connect the added account to local blockchain (i.e.localhost:3000)
 8. Interact with website
+
+![image](https://github.com/Yashdeep03/Trust-Block/assets/124045454/31a7984c-af91-4280-858c-d60320220873)
+
